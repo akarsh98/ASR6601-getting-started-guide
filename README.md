@@ -18,7 +18,7 @@ After doing the Hardware stuff, we need to upload the code to our device. For th
 
 After completing the downloading and installation of these softwares, we are good to go and complete the uploading of our code. As the code gets compiled and uploaded to the board, we will be displayed some details on the screen which will show that the code was uploaded succesfully or not.So in this way, we will be done with our first project on ASR6601. We can use this board to make many more different projects that we used to make using LoRa.
 
-![alt text]()
+![alt text](https://github.com/akarsh98/ASR6601-getting-started-guide/blob/main/Images/jlccb1.JPG)
 
 You must check out [JLCPCB](https://jlcpcb.com/aka) for ordering PCBs online for cheap!
 
